@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pedrotomazeti" alt="pedrotomazeti" /></a> </p>
 
-- 🌱 I’m currently learning **HTML5, CSS3, Python and Ethical Hacking.**
+- 🌱 I’m currently learning **HTML/CSS,JavaScript, Python and Ethical Hacking.**
 
 - 📫 How to reach me **pltf8001@gmail.com**
 
