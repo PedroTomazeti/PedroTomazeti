@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pedrotomazeti" alt="pedrotomazeti" /></a> </p>
 
-- 🌱 I’m currently learning **Java, Python and Kotlin.**
+- 🌱 I’m currently learning **Java, HTML/CSS, JAVASCRIPT.**
 
 - 📫 How to reach me **pltf8001@gmail.com**
 
