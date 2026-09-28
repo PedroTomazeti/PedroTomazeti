@@ -1,6 +1,8 @@
-# Pedro Lucas Tomazeti
+# Pedro Lucas Tomazeti Fernandes
 
 ### AI & Automation Engineer · Backend Python · Systems Integration
+
+[LinkedIn](https://linkedin.com/in/pedro-lucas-tomazeti-fernandes-5a35b6320) · [GitHub](https://github.com/PedroTomazeti)
 
 I'm a **Computer Engineer** focused on building **automation systems, AI-powered solutions, backend applications, and integrations between business systems**.
 
@@ -169,13 +171,6 @@ with a focus on:
 * Computational intelligence
 * Software architecture
 
----
-
-## 📫 Connect
-
-* 💼 **LinkedIn:** [Pedro Lucas Tomazeti](https://linkedin.com/in/pedro-lucas-tomazeti-fernandes-5a35b6320)
-* 💻 **GitHub:** [PedroTomazeti](https://github.com/PedroTomazeti)
-* 📍 **São Luís, Maranhão, Brazil**
 
 ---
 
