@@ -1,29 +1,182 @@
-<h1 align="center">Hi, I'm Pedro Lucas Tomazeti Fernandes!</h1>
-<h3 align="center">A Computer Engineering from Brazil.</h3>
+# Pedro Lucas Tomazeti
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pedrotomazeti&label=Profile%20views&color=0e75b6&style=flat" alt="pedrotomazeti" /> </p>
+### AI & Automation Engineer · Backend Python · Systems Integration
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pedrotomazeti" alt="pedrotomazeti" /></a> </p>
+I'm a **Computer Engineer** focused on building **automation systems, AI-powered solutions, backend applications, and integrations between business systems**.
 
-- 🌱 I’m currently learning **PYTHON, DJANGO, JAVA**
+My work combines **Python, Generative AI, AI Agents, workflow automation, APIs, RPA, databases, and enterprise systems** to turn complex and repetitive processes into reliable software solutions.
 
-- 📫 How to reach me **pltf8001@gmail.com**
+I have hands-on experience developing automations for **fiscal processes, ERP systems, document processing, WhatsApp-based workflows, business operations, and AI-powered applications**.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/pedrotomazeti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pedrotomazeti" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://html.spec.whatwg.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/> </a>
-  <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/> </a>
-  <a href="https://www.python.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-  <a href="https://www.java.com/pt-BR/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="python" width="40" height="40"/> </a>
-</p>
+## 🚀 What I Build
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pedrotomazeti&show_icons=true&locale=en&layout=compact" alt="pedrotomazeti" /></p>
+* 🤖 **AI-powered applications** and autonomous agents
+* ⚙️ **Business process automation** and RPA
+* 🔗 **Backend systems and API integrations**
+* 🧠 **LLM-powered workflows and multimodal AI**
+* 🧾 **Fiscal and document automation**
+* 🏢 **ERP integrations and enterprise automation**
+* 📊 **Data processing and intelligent pipelines**
+* 🧬 **Machine Learning and computational intelligence**
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pedrotomazeti&show_icons=true&locale=en" alt="pedrotomazeti" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pedrotomazeti&" alt="pedrotomazeti" /></p>
+## ⭐ Featured Projects
+
+### 🤖 P.A.R.K.E.R.
+
+Personal AI assistant focused on intelligent interactions, automation and system integration.
+
+**Tech:** Python · LLMs · APIs · AI Agents
+
+---
+
+### 👓 Projeto Ótica
+
+An intelligent sales and customer-service ecosystem designed for optical businesses.
+
+The system combines **WhatsApp, multimodal AI, OCR/vision capabilities, Redis, ERP integration and payment processing** to automate the customer journey from prescription analysis to sales.
+
+**Tech:** n8n · Gemini · Redis · Evolution API · Bling · Asaas · AI
+
+---
+
+### 📣 MarketingIA
+
+AI-powered automation for marketing workflows and content generation.
+
+The project combines **AI agents, voice processing and generative AI** to automate the creation and organization of marketing content.
+
+**Tech:** n8n · AI Agents · Gemini · Whisper · OpenRouter
+
+---
+
+### 🧾 KADRIX
+
+A collection of enterprise automation systems developed for real-world business operations.
+
+The ecosystem includes automation for **fiscal processes, document processing, ERP operations, service invoices, reporting and data integration with TOTVS Protheus**.
+
+Some components are proprietary and therefore cannot be publicly exposed, but the project represents a significant part of my professional experience with **Python automation, RPA and enterprise systems integration**.
+
+**Tech:** Python · Selenium · Docker · MySQL · TOTVS Protheus · XML · PDF · RPA
+
+---
+
+### 🧬 EVOIMP
+
+Academic research project focused on **computational intelligence, evolutionary algorithms and Machine Learning optimization**.
+
+The project implements genetic algorithms with **elitism, crossover and mutation** to optimize multilabel classification models.
+
+It evaluates approaches such as:
+
+* Binary Relevance
+* Classifier Chains
+* Label Powerset
+
+**Tech:** Python · Machine Learning · Genetic Algorithms · Optimization · Data Processing
+
+---
+
+## 🛠️ Tech Stack
+
+### Programming & Backend
+
+`Python` · `FastAPI` · `Flask` · `Django` · `SQL`
+
+### Artificial Intelligence
+
+`OpenAI` · `Gemini` · `OpenRouter` · `Whisper` · `LangChain` · `RAG` · `AI Agents` · `Prompt Engineering`
+
+### Automation & RPA
+
+`n8n` · `Selenium` · `Requests` · `Pandas` · `XML` · `PDF Processing`
+
+### APIs & Integrations
+
+`REST APIs` · `Webhooks` · `Google Sheets API` · `WordPress API` · `Evolution API`
+
+### Databases
+
+`PostgreSQL` · `SQL Server` · `MySQL` · `Redis`
+
+### DevOps & Infrastructure
+
+`Docker` · `Docker Compose` · `Git` · `GitHub` · `Linux` · `AWS`
+
+### IoT & Embedded Systems
+
+`ESP32` · `MQTT` · `LoRaWAN` · `LTE`
+
+---
+
+## 💼 Professional Experience
+
+My professional experience is primarily focused on **automation and integration of real-world business processes**.
+
+I've developed solutions involving:
+
+* Fiscal document automation
+* NF-e / NFS-e processing
+* ERP automation with **TOTVS Protheus**
+* RPA using Selenium
+* Automated reports and document distribution
+* Spreadsheet and data processing
+* Python-based business automation
+* Integration between internal systems and external services
+
+This experience allows me to approach software development not only from a technical perspective, but also from the perspective of **business processes, reliability and operational efficiency**.
+
+---
+
+## 🎓 Education
+
+**Bachelor's Degree in Computer Engineering**
+Universidade Estadual do Maranhão — UEMA
+
+**2020 — 2026**
+
+Academic background covering software engineering, artificial intelligence, computational intelligence, embedded systems, networks and computer science.
+
+---
+
+## 🔬 Research & Engineering
+
+My academic background also includes experience with **IoT and embedded systems**, including ESP32-based prototypes, MQTT communication and studies involving LTE/LoRaWAN.
+
+My undergraduate research culminated in **EVOIMP**, combining evolutionary computation with Machine Learning optimization.
+
+---
+
+## 📈 Areas of Interest
+
+I'm particularly interested in developing systems at the intersection of:
+
+**Artificial Intelligence × Automation × Backend × Systems Integration**
+
+with a focus on:
+
+* Intelligent automation
+* AI Agents
+* Generative AI
+* Multimodal AI
+* Backend engineering
+* Enterprise integrations
+* Distributed workflows
+* Computational intelligence
+* Software architecture
+
+---
+
+## 📫 Connect
+
+**LinkedIn:** Pedro Lucas Tomazeti
+**GitHub:** PedroTomazeti
+**Location:** São Luís, Maranhão, Brazil
+
+---
+
+> **Building software that turns complex processes into intelligent systems.**
