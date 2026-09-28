@@ -173,9 +173,9 @@ with a focus on:
 
 ## 📫 Connect
 
-**LinkedIn:** Pedro Lucas Tomazeti
-**GitHub:** PedroTomazeti
-**Location:** São Luís, Maranhão, Brazil
+* 💼 **LinkedIn:** [Pedro Lucas Tomazeti](https://linkedin.com/in/pedro-lucas-tomazeti-fernandes-5a35b6320)
+* 💻 **GitHub:** [PedroTomazeti](https://github.com/PedroTomazeti)
+* 📍 **São Luís, Maranhão, Brazil**
 
 ---
 
